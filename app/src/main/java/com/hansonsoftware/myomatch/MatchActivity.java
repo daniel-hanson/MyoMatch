@@ -1,20 +1,25 @@
 package com.hansonsoftware.myomatch;
 
+import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import com.facebook.Session;
+import com.facebook.widget.LoginButton;
+
+import android.support.v4.app.Fragment;
+
+import java.util.Arrays;
 
 
-public class MatchActivity extends ActionBarActivity {
+public class MatchActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_match);
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
