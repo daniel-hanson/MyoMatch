@@ -9,20 +9,6 @@
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ee52a069a8865a7ee5d959c4af3098b92a4ebafa.jar" />
     </item>
     <item
-        jar="/home/daniel/GitHub/MyoMatch/app/libs/pebblekit-2.6.0-eclipse.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="83711439a0b9126347122255e9976668a72c033a">
-        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/pebblekit-2.6.0-eclipse-812dec04dfa98744ea7c37c679f833129151cfa0.jar" />
-    </item>
-    <item
-        jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/2.6.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="660dc1d342b8e31da1cc51e79c66d636a77a1e98">
-        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-1e58432dc45a1b7fec8d67a931ddaa634426fd36.jar" />
-    </item>
-    <item
         jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/libs/native-libs.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -44,6 +30,13 @@
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-3a5c29e55b72b33bb75803567e78948900134397.jar" />
     </item>
     <item
+        jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96a08acffc0d3cf8425107b82bc4009a1f82a66c">
+        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-22ff1418d7e8fd005039ce37e3a98801122687a3.jar" />
+    </item>
+    <item
         jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -56,6 +49,13 @@
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-727930dc07b297c30bf7c93e941d9cd338891756.jar" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-c5aa3b6328e43a3b191332aabdac13657cd52e7b.jar" />
     </item>
 
 </items>
