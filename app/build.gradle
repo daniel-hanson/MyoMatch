@@ -22,4 +22,12 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
+
+    repositories {
+        maven {
+            url '/home/daniel/Myo/myo-android-sdk-0.10.0/myorepository'
+        }
+    }
+
+    compile('com.thalmic:myosdk:0.10.+@aar')
 }
