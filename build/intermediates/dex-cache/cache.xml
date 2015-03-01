@@ -9,13 +9,6 @@
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ee52a069a8865a7ee5d959c4af3098b92a4ebafa.jar" />
     </item>
     <item
-        jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/libs/native-libs.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
-        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/native-libs-c188043a74581c073d1d0dd800d50570431db204.jar" />
-    </item>
-    <item
         jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -28,13 +21,6 @@
         revision="21.1.2"
         sha1="d189db75174a41996c33bb243d2228aacf10fa53">
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-3a5c29e55b72b33bb75803567e78948900134397.jar" />
-    </item>
-    <item
-        jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="96a08acffc0d3cf8425107b82bc4009a1f82a66c">
-        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-22ff1418d7e8fd005039ce37e3a98801122687a3.jar" />
     </item>
     <item
         jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
@@ -51,11 +37,11 @@
         <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/classes-727930dc07b297c30bf7c93e941d9cd338891756.jar" />
     </item>
     <item
-        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jar="/home/daniel/GitHub/MyoMatch/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/libs/native-libs.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-c5aa3b6328e43a3b191332aabdac13657cd52e7b.jar" />
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="/home/daniel/GitHub/MyoMatch/app/build/intermediates/pre-dexed/debug/native-libs-c188043a74581c073d1d0dd800d50570431db204.jar" />
     </item>
 
 </items>
